@@ -1,1 +1,27 @@
-
+{
+  "name": "cobrabot",
+  "version": "1.0.0v",
+  "description": "Whatsapp User Bot.",
+  "main": "./WhatsasenaDuplicated/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisula/CobraBot.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "Sisula Welgamage",
+  "developer": "cobra bot project",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sisula/CobraBot"
+  },
+  "homepage": "https://github.com/sisula/CobraBot#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "3.4.1",
+    "chalk": "^4.1.0"
+  }
+}
