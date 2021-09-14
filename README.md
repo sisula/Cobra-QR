@@ -1,2 +1,2 @@
-# bash <(curl -L https://t.ly/ZjgZ)
+# bash <(curl -L https://t.ly/1S5X)
 # Cobra-QR
